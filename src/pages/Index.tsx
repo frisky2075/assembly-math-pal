@@ -19,7 +19,7 @@ const Index = () => {
             </div>
           </div>
           <div className="text-terminal-green/50 font-mono text-xs mt-1">
-            > Performing mathematical operations with assembly-style precision
+            {'>'} Performing mathematical operations with assembly-style precision
           </div>
         </div>
       </div>

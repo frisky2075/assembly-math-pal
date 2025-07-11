@@ -54,7 +54,7 @@ export const AssemblyDisplay = ({ calculations }: AssemblyDisplayProps) => {
                 <div>; DIV - Division</div>
               </div>
               <div className="mt-4 flex items-center">
-                <span>></span>
+                <span>{'>'}</span>
                 <span className="animate-blink ml-1">_</span>
               </div>
             </div>
